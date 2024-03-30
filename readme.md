@@ -19,3 +19,13 @@ streamlit run app.py
 ## Deployment Page
 
 https://techin510-lab1-2xzcvex3urxes3mcasgpk3.streamlit.app/
+
+## Lessons Learned
+
+- How to use Streamlit to create simple website
+- How to use requirements.txt to manage Python dependencies
+- How to use Streamlit community to deploy my app
+
+## Questions
+
+How can we build a dynamic webpage using Streamlit?
